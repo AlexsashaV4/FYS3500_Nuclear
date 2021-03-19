@@ -1,2 +1,2 @@
 # FYS3500_Nuclear
-Nuclear and particle physics oslo, notes and assignement
+Nuclear and particle physics, University of Oslo, notes and assignement
