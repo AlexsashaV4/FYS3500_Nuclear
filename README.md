@@ -4,6 +4,6 @@ Nuclear and particle physics, University of Oslo, notes and assignement
 Mandatory assignement, work in progress...
 
 !!!Danger!!! 
-Traces of "QUARK GLUON PLASMA" were found in the following file
+Traces of "QUARK GLUON PLASMA" were found in the repository
 
-https://www.overleaf.com/7723164284fbwdvsjhsvpq
+
